@@ -31,7 +31,9 @@ run Strike.py
 Other files required:
 
 titleS.png
+
 map3.png
+
 BGM.wav 
 
 ----------------------------------------------------------------------------------------
